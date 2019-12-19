@@ -20,4 +20,4 @@ const todos = (state = [], action) => {
   }
 }
 
-export default visibilityFilter;
+export default todos;
